@@ -1,0 +1,16 @@
+เขียนแหล่งที่มา
+https://flutterawesome.com/messenger-app-ui-built-with-flutter/
+เขียนรายชื่อ packages ที่ใช้ในโปรเจค
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  cached_network_image: ^3.1.0
+  flutter_svg: ^2.0.5
+  gap: ^3.0.0
+  percent_indicator: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
